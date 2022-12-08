@@ -2,12 +2,11 @@
 # the default layout is 'page'
 icon: fas fa-info-circle
 order: 1
-img_path: /assets/education
 ---
 
 Education
 
-![A picture containing green Description automatically generated](0da3f34ea0e67a2af71865fc2b07f1b9.jpeg)
+![A picture containing green Description automatically generated](/assets/education/0da3f34ea0e67a2af71865fc2b07f1b9.jpeg)
 
 SEEVIC College 2015-2018
 
