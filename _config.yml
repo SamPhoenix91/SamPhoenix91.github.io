@@ -197,4 +197,4 @@ jekyll-archives:
     tag: tag
   permalinks:
     tag: /tags/:name/
-    category: /portfolio/:name/
+    category: /categories/:name/
